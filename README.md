@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 I’m currently learning and working on Python, React , etc...
 
 <!--
 **ThierryM23/ThierryM23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
