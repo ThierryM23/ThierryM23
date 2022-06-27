@@ -1,10 +1,20 @@
-### 👋 I’m currently learning and working on Python, React , etc...
+
+- 🔭 I’m currently working on crypto Trading Bots in Binance
+
+- 🌱 I’m currently learning on Python, React , etc...
+
+- 📫 How to reach me: thierry.meunier23@gmail.com
+
+
+
+
+
 
 <!--
 **ThierryM23/ThierryM23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋 I’m 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
